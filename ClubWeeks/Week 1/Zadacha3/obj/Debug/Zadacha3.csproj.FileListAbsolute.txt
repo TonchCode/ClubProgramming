@@ -1,0 +1,14 @@
+D:\Documents\club\Zadacha3\bin\Debug\Zadacha3.exe.config
+D:\Documents\club\Zadacha3\bin\Debug\Zadacha3.exe
+D:\Documents\club\Zadacha3\bin\Debug\Zadacha3.pdb
+D:\Documents\club\Zadacha3\obj\Debug\Zadacha3.csproj.CoreCompileInputs.cache
+D:\Documents\club\Zadacha3\obj\Debug\Zadacha3.exe
+D:\Documents\club\Zadacha3\obj\Debug\Zadacha3.pdb
+D:\Documents\club\HW1\Zadacha3\bin\Debug\Zadacha3.exe.config
+D:\Documents\club\HW1\Zadacha3\bin\Debug\Zadacha3.exe
+D:\Documents\club\HW1\Zadacha3\bin\Debug\Zadacha3.pdb
+D:\Documents\club\HW1\Zadacha3\obj\Debug\Zadacha3.csproj.AssemblyReference.cache
+D:\Documents\club\HW1\Zadacha3\obj\Debug\Zadacha3.csproj.SuggestedBindingRedirects.cache
+D:\Documents\club\HW1\Zadacha3\obj\Debug\Zadacha3.csproj.CoreCompileInputs.cache
+D:\Documents\club\HW1\Zadacha3\obj\Debug\Zadacha3.exe
+D:\Documents\club\HW1\Zadacha3\obj\Debug\Zadacha3.pdb

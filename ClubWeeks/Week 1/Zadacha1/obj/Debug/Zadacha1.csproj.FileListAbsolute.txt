@@ -1,0 +1,6 @@
+D:\Documents\club\Zadachi\bin\Debug\Zadachi.exe.config
+D:\Documents\club\Zadachi\bin\Debug\Zadachi.exe
+D:\Documents\club\Zadachi\bin\Debug\Zadachi.pdb
+D:\Documents\club\Zadachi\obj\Debug\Zadacha1.csproj.CoreCompileInputs.cache
+D:\Documents\club\Zadachi\obj\Debug\Zadachi.exe
+D:\Documents\club\Zadachi\obj\Debug\Zadachi.pdb

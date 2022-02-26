@@ -1,0 +1,7 @@
+D:\Documents\club\Zadacha2\bin\Debug\Zadacha2.exe.config
+D:\Documents\club\Zadacha2\bin\Debug\Zadacha2.exe
+D:\Documents\club\Zadacha2\bin\Debug\Zadacha2.pdb
+D:\Documents\club\Zadacha2\obj\Debug\Zadacha2.csprojAssemblyReference.cache
+D:\Documents\club\Zadacha2\obj\Debug\Zadacha2.csproj.CoreCompileInputs.cache
+D:\Documents\club\Zadacha2\obj\Debug\Zadacha2.exe
+D:\Documents\club\Zadacha2\obj\Debug\Zadacha2.pdb

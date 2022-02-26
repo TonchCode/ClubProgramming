@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6847e416-a88f-495e-bcee-c18129858c28": {
+      "ProjectGuid": "6847e416-a88f-495e-bcee-c18129858c28",
+      "DisplayName": "Zadacha3",
+      "ColorIndex": 0
+    },
+    "adb77e9d-a0fe-47b3-921c-c2a15b8fe12a": {
+      "ProjectGuid": "adb77e9d-a0fe-47b3-921c-c2a15b8fe12a",
+      "DisplayName": "Zadacha2",
+      "ColorIndex": 1
+    },
+    "fc19da9f-959d-4056-9521-c6d0b7fe858e": {
+      "ProjectGuid": "fc19da9f-959d-4056-9521-c6d0b7fe858e",
+      "DisplayName": "Zadacha1",
+      "ColorIndex": 2
+    },
+    "32c455b0-dbab-41d5-9803-626d2008277b": {
+      "ProjectGuid": "32c455b0-dbab-41d5-9803-626d2008277b",
+      "DisplayName": "HW1",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
