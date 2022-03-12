@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.31829.152
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "calculator2.0", "calculator2.0\calculator2.0.csproj", "{2E2B06E4-AB9A-4C03-8250-C2F039C1AA8E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "calculator2.0", "calculator2.0.csproj", "{2E2B06E4-AB9A-4C03-8250-C2F039C1AA8E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -20,6 +20,6 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {A73DB146-1F66-4CCD-A324-E2E7D5F2489B}
+		SolutionGuid = {36541829-866D-449E-9B07-005C6A42B2D9}
 	EndGlobalSection
 EndGlobal
