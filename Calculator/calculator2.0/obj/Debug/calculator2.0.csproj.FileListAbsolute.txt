@@ -8,3 +8,14 @@ C:\Users\Mitak DB\source\repos\calculator2.0\calculator2.0\obj\Debug\calculator2
 C:\Users\Mitak DB\source\repos\calculator2.0\calculator2.0\obj\Debug\calculator2.0.csproj.CoreCompileInputs.cache
 C:\Users\Mitak DB\source\repos\calculator2.0\calculator2.0\obj\Debug\calculator2.0.exe
 C:\Users\Mitak DB\source\repos\calculator2.0\calculator2.0\obj\Debug\calculator2.0.pdb
+D:\Documents\club\.ClubRepository\ClubProgramming\Calculator\calculator2.0\bin\Debug\calculator2.0.exe.config
+D:\Documents\club\.ClubRepository\ClubProgramming\Calculator\calculator2.0\bin\Debug\calculator2.0.exe
+D:\Documents\club\.ClubRepository\ClubProgramming\Calculator\calculator2.0\bin\Debug\calculator2.0.pdb
+D:\Documents\club\.ClubRepository\ClubProgramming\Calculator\calculator2.0\obj\Debug\calculator2.0.csproj.AssemblyReference.cache
+D:\Documents\club\.ClubRepository\ClubProgramming\Calculator\calculator2.0\obj\Debug\calculator2.0.csproj.SuggestedBindingRedirects.cache
+D:\Documents\club\.ClubRepository\ClubProgramming\Calculator\calculator2.0\obj\Debug\calculator2._0.Form1.resources
+D:\Documents\club\.ClubRepository\ClubProgramming\Calculator\calculator2.0\obj\Debug\calculator2._0.Properties.Resources.resources
+D:\Documents\club\.ClubRepository\ClubProgramming\Calculator\calculator2.0\obj\Debug\calculator2.0.csproj.GenerateResource.cache
+D:\Documents\club\.ClubRepository\ClubProgramming\Calculator\calculator2.0\obj\Debug\calculator2.0.csproj.CoreCompileInputs.cache
+D:\Documents\club\.ClubRepository\ClubProgramming\Calculator\calculator2.0\obj\Debug\calculator2.0.exe
+D:\Documents\club\.ClubRepository\ClubProgramming\Calculator\calculator2.0\obj\Debug\calculator2.0.pdb
